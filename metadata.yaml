@@ -1,5 +1,8 @@
 _repo: The-Lure-of-the-Dim-Trails_1014
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bower, B. M.
@@ -16,6 +19,8 @@ description: Take a trip along the dusty byways of the Old West in this book fro
   he blend in with the rough-and-tumble cowboys who populate the open range, or will
   he return empty-handed? Read this engrossing love letter to the Western landscape
   to find out.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1014#The-Lure-of-the-Dim-Trails
 gutenberg_bookshelf: Western
 gutenberg_issued: '1997-08-01'
 gutenberg_type: Text
